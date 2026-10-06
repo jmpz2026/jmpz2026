@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Estudiante de Analisis y Desarrollo de Software y creador de un Servidor de Minecraft con mas de 2000 usuarios.
+Estudiante de Analisis y Desarrollo de Software y creador de un Servidor de Minecraft con mas de 1800 usuarios en Discord.
 
 
 ## 🌐 Redes sociales:
